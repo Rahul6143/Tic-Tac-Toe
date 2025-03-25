@@ -9,34 +9,6 @@ A simple **Tic-Tac-Toe game** built with **React.js** and **Vite**, featuring mo
 - 🎨 **Styled with CSS** for a responsive UI  
 - ✅ **Linting with ESLint** for clean code  
 
-## 📂 Project Structure  
-tic-tac-toe/
-├── node_modules/
-├── src/
-│   ├── assets/
-│   │   ├── O.png
-│   │   ├── X.png
-│   ├── components/
-│   │   ├── hooks/
-│   │   │   ├── useTictactoe.jsx
-│   │   ├── TicTacToe.css
-│   │   ├── TicTacToe.jsx
-│   ├── App.jsx
-│   ├── main.jsx
-│   ├── index.css
-│   ├── index.html
-├── .gitignore
-├── eslint.config.js
-├── package-lock.json
-├── package.json
-├── README.md
-└── vite.config.js
-Markdown
-
-# Tic-Tac-Toe Game
-
-This project is a simple Tic-Tac-Toe game built using React and Vite.
-
 ## Table of Contents
 
 - [Project Description](#project-description)

@@ -42,7 +42,7 @@ Before you begin, ensure you have the following installed:
 - [Node.js](https://nodejs.org/) (version >= 14 or higher)
 - [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/)
 
-### Installation
+### 🖥️ Installation
 
 1. Clone the repository:
 
@@ -61,7 +61,7 @@ Before you begin, ensure you have the following installed:
   Running the App
   To start the development server, run:
 
-### Start the Development Server:
+### 🚀 Start the Development Server:
 
   ```bash
   npm run dev
@@ -72,7 +72,7 @@ Before you begin, ensure you have the following installed:
   ```
 This will open your application in your default browser at http://localhost:5173.
 
-### Project Structure
+### 📂 Project Structure
 ```bash
 tic-tac-toe/
 ├── node_modules/
@@ -108,7 +108,7 @@ tic-tac-toe/
 - package.json: Lists project dependencies and scripts.
 - README.md: Project documentation.
 
-### Dependencies
+### ⚙️ Dependencies
 ```bash
 "dependencies": {
     "react": "^18.2.0",
@@ -122,7 +122,7 @@ tic-tac-toe/
   }
   ```
 
-  ### Learn More
-[React Documentation](https://react.dev/)
-[Vite Documentation](https://vite.dev/)
+  ### 📜 Learn More
+1. [React Documentation](https://react.dev/)
+2. [Vite Documentation](https://vite.dev/)
 

@@ -9,19 +9,23 @@ A simple **Tic-Tac-Toe game** built with **React.js** and **Vite**, featuring mo
 - 🎨 **Styled with CSS** for a responsive UI  
 - ✅ **Linting with ESLint** for clean code  
 
+### 🕹️ How to Play
+1. Open the browser and navigate to the local development server.
+2. Click on any square to place an 'X' or 'O'.
+3. The game announces a winner when three marks align in a row, column, or diagonal.
+4. Refresh the page to start a new game.
+
 ## Table of Contents
 
 - [Project Description](#project-description)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Running the App](#running-the-app)
+  - [Running the App](#Start-the-Development-Server)
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
-- [Available Scripts](#available-scripts)
 - [Learn More](#learn-more)
-- [Contributing](#contributing)
-- [License](#license)
+- [How to Play](#️-how-to-play)
 
 ## Project Description
 
@@ -57,7 +61,7 @@ Before you begin, ensure you have the following installed:
   Running the App
   To start the development server, run:
 
-3. Start the Development Server:
+### Start the Development Server:
 
   ```bash
   npm run dev
@@ -104,8 +108,21 @@ tic-tac-toe/
 - package.json: Lists project dependencies and scripts.
 - README.md: Project documentation.
 
-### 🕹️ How to Play
-1. Open the browser and navigate to the local development server.
-2. Click on any square to place an 'X' or 'O'.
-3. The game announces a winner when three marks align in a row, column, or diagonal.
-4. Refresh the page to start a new game.
+### Dependencies
+```bash
+"dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+"devDependencies": {
+    "@vitejs/plugin-react": "^4.0.3",
+    "eslint": "^8.45.0",
+    "eslint-plugin-react": "^7.32.2",
+    "vite": "^4.4.5"
+  }
+  ```
+
+  ### Learn More
+[React Documentation](https://react.dev/)
+[Vite Documentation](https://vite.dev/)
+

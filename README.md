@@ -97,6 +97,7 @@ Before you begin, ensure you have the following installed:
 This will open your application in your default browser at http://localhost:5173.
 
 ### Project Structure
+```bash
 tic-tac-toe/
 ├── node_modules/
 ├── src/
@@ -118,6 +119,7 @@ tic-tac-toe/
 ├── package.json
 ├── README.md
 └── vite.config.js
+```
 
 - assets/: Contains image assets (O.png, X.png).
 - components/: Contains React components, including the custom hook useTictactoe.jsx and the main TicTacToe.jsx component.

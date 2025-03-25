@@ -77,7 +77,7 @@ Before you begin, ensure you have the following installed:
 2. Install dependencies using npm or Yarn:
   ```bash
   npm install
-
+  ```
   or
   ```bash
   yarn install

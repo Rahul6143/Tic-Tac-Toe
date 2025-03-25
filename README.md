@@ -76,23 +76,24 @@ Before you begin, ensure you have the following installed:
 
 2. Install dependencies using npm or Yarn:
   ```bash
-    npm install
-    ```
-    or
+  npm install
+
+  or
   ```bash
-    yarn install
-    ```
-    Running the App
-    To start the development server, run:
+  yarn install
+  ```
+  Running the App
+  To start the development server, run:
 
 3. Start the Development Server:
+
   ```bash
-    npm run dev
+  npm run dev
   ```
-    or
-    ```bash
-    yarn dev
-    ```
+  or
+  ```bash
+  yarn dev
+  ```
 This will open your application in your default browser at http://localhost:5173.
 
 ### Project Structure

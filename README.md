@@ -75,16 +75,24 @@ Before you begin, ensure you have the following installed:
    cd tic-tac-toe
 
 2. Install dependencies using npm or Yarn:
+  ```bash
     npm install
-    # or
+    ```
+    or
+  ```bash
     yarn install
+    ```
     Running the App
     To start the development server, run:
 
-3. Start the Development Server
+3. Start the Development Server:
+  ```bash
     npm run dev
-    # or
+  ```
+    or
+    ```bash
     yarn dev
+    ```
 This will open your application in your default browser at http://localhost:5173.
 
 ### Project Structure
